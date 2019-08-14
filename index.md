@@ -1,7 +1,7 @@
 ## Selamat datang di Bapak Kau
-Anda dapat menggunakan [editor di BapakKau] (https://github.com/purnamasadik/bapakkau/edit/master/index.md) untuk mempertahankan dan melihat pratinjau konten untuk situs web Anda dalam file Markdown.
+Anda dapat menggunakan Editor di Bapak Kau untuk mempertahankan dan melihat pratinjau konten untuk situs web Anda dalam file Markdown.
 
-Setiap kali Anda melakukan commit pada repositori ini, halaman BapakKau akan menjalankan [Jekyll] (https:/jekyllrb.com/) untuk membangun kembali halaman-laman di situs Anda, dari konten dalam berkas Markdown Anda
+Setiap kali Anda melakukan commit pada repositori ini, halaman BapakKau akan menjalankan Jekyll untuk membangun kembali halaman-laman di situs Anda, dari konten dalam berkas Markdown Anda
 
 ### Markdown
 
