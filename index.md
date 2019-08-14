@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Selamat datang di Bapak Kau
+Anda dapat menggunakan [editor di BapakKau] (https://github.com/purnamasadik/bapakkau/edit/master/index.md) untuk mempertahankan dan melihat pratinjau konten untuk situs web Anda dalam file Markdown.
 
-You can use the [editor on GitHub](https://github.com/purnamasadik/mayusdiary.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Setiap kali Anda melakukan commit pada repositori ini, halaman BapakKau akan menjalankan [Jekyll] (https:/jekyllrb.com/) untuk membangun kembali halaman-laman di situs Anda, dari konten dalam berkas Markdown Anda
 
 ### Markdown
 
@@ -28,10 +27,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/purnamasadik/mayusdiary.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
